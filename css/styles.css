@@ -1,0 +1,77 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+
+
+}
+h1{
+  font-family: 'Dancing Script', cursive;
+  color: #f76262
+
+
+}
+h2{
+  font-family: 'Dancing Script', cursive;
+  color: #f76262
+
+
+}
+h3{
+  color: #a64942
+}
+a{
+  color: #a64942
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #293462;
+  border-width: 5px;
+  width: 25%;
+
+}
+
+
+.top-container{
+  background-color: #fff1c1;
+  position: relative;
+  padding-top: 100px;
+
+}
+.top-cloud{
+  position: absolute;
+  right: 500px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 500px;
+  bottom: 300px;
+}
+.prof-pic{
+  max-width: 100px;
+  max-height: 150px;
+  border-radius: 75%;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.code-gif{
+  margin-right: 30px;
+  float: left;
+  border-radius: 25%;
+  height: 25%;
+  width: 25%;
+}
+.star-pic{
+  margin-right: 30px;
+  float: right;
+  border-radius: 25%;
+  height: 25%;
+  width: 25%;
+}
